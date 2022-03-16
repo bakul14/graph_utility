@@ -1,0 +1,10 @@
+graph flita {
+A -- C [label = 4]
+A -- E [label = 2]
+B -- B [label = 1]
+B -- C [label = 1]
+C -- A [label = 4]
+C -- B [label = 1]
+C -- C [label = 1]
+E -- A [label = 2]
+}
